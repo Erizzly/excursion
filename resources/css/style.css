@@ -1,0 +1,28 @@
+body{
+  background-color: black;
+  color: white;
+  font-family: verdana, sans-serif;
+  text-align: center;
+}
+
+a{
+  text-decoration: none;
+}
+a:link, a:visited{
+  color:aquamarine;
+}
+a:hover{
+  color:red;
+}
+h2{
+  font-weight: 300;
+  font-size: 42px;
+}
+.mehr{
+  font-size: 21px;
+  color: gray;
+}
+.footer{
+  color: gray;
+  text-align: right;
+}
